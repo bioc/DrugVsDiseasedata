@@ -1,0 +1,12 @@
+Package: DrugVsDiseasedata
+Type: Package
+Title: Drug versus Disease Data
+Version: 0.99.3
+Date: 2013-03-15
+Author: C. Pacini
+Maintainer: J. Saez-Rodriguez <saezrodriguez@ebi.ac.uk>
+Description: Data package which provides default disease expression profiles, clusters and annotation information for use with the DrugVsDisease package.
+License: GPL-3
+LazyLoad: yes
+LazyData: yes
+Depends: R (>= 2.10)
