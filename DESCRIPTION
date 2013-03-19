@@ -5,7 +5,10 @@ Version: 0.99.3
 Date: 2013-03-15
 Author: C. Pacini
 Maintainer: J. Saez-Rodriguez <saezrodriguez@ebi.ac.uk>
-Description: Data package which provides default disease expression profiles, clusters and annotation information for use with the DrugVsDisease package.
+Description: Data package which provides default disease 
+  expression profiles, clusters and annotation information 
+  for use with the DrugVsDisease package.
+biocViews: GeneExpression, Homo_sapiens, Microarray
 License: GPL-3
 LazyLoad: yes
 LazyData: yes
